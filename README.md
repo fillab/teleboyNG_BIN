@@ -13,3 +13,7 @@ Initial version, based on the new json API:
 * Add any element in Kodi favourites (i.e. one channel)
 * All channes, Favourites, Recordings
 * Refresh from context menu
+
+### 0.2.0
+Bugfix release:
+* Fixed authentication failure
