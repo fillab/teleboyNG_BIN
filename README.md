@@ -17,3 +17,7 @@ Initial version, based on the new json API:
 ### 0.2.0
 Bugfix release:
 * Fixed authentication failure
+
+### 0.3.0
+Bugfix release:
+* Fixed authentication failure, again
