@@ -6,6 +6,18 @@ Before installing this addon make sure you already have the [mindmade XBMC Addon
 
 ## Changelog
 
+### 0.4.0
+Bugfix release:
+* Use https for authentication
+
+### 0.3.0
+Bugfix release:
+* Fixed authentication failure, again
+
+### 0.2.0
+Bugfix release:
+* Fixed authentication failure
+
 ### 0.1.0
 Initial version, based on the new json API:
 * New icon
@@ -14,10 +26,3 @@ Initial version, based on the new json API:
 * All channes, Favourites, Recordings
 * Refresh from context menu
 
-### 0.2.0
-Bugfix release:
-* Fixed authentication failure
-
-### 0.3.0
-Bugfix release:
-* Fixed authentication failure, again
