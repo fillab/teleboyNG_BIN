@@ -6,6 +6,10 @@ Before installing this addon make sure you already have the [mindmade XBMC Addon
 
 ## Changelog
 
+### 0.5.0
+Bugfix release:
+* Fixed authentication failure, once more
+
 ### 0.4.0
 Bugfix release:
 * Use https for authentication
