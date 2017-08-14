@@ -6,6 +6,10 @@ Before installing this addon make sure you already have the [mindmade XBMC Addon
 
 ## Changelog
 
+### 0.6.0
+Bugfix release:
+* user_id extraction adapted to new format
+
 ### 0.5.0
 Bugfix release:
 * Fixed authentication failure, once more
