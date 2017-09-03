@@ -6,6 +6,14 @@ Before installing this addon make sure you already have the [mindmade XBMC Addon
 
 ## Changelog
 
+### 1.0.0
+New features and cosmetics:
+* settings - enable/disable EPG (thanks primaeval!)
+* settings - select the desired EPG format
+* use hig quality pictures for TV logos (thanks bruno-briner!)
+* "all channels" menu is working again
+* integrated plugin code in repository
+
 ### 0.6.0
 Bugfix release:
 * user_id extraction adapted to new format

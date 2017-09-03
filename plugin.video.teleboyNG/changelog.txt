@@ -1,0 +1,32 @@
+version 1.0.0
+
+  * new settings (EPG on/off & select format)
+    [expanded original idea from primaeval, thank you!]
+  * cosmetic (use hig quality TV logos)
+    [fix from bruno-briner, thank you!]
+  * bugfix ("all channels" working again)
+
+version 0.6.0
+
+  * bugfix (user_id extraction adapted to new format)
+
+version 0.5.0
+
+  * bugfix (authentication failure, once more)
+
+version 0.4.0
+
+  * bugfix (use https for authentication)
+
+version 0.3.0
+
+  * bugfix (authentication failure, again)
+
+version 0.2.0
+
+  * bugfix (authentication failure)
+
+version 0.1.0
+
+  * initial release
+

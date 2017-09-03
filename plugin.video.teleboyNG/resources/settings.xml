@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+
+  <!-- General -->
+  <category label="30100">
+    <setting id="login" type="text" label="30110" />
+    <setting id="password" type="text" label="30111" option="hidden"/>
+    <setting type="sep"/>
+    <setting id="epg_visible" type="bool" label="30200" default="true" />
+        <setting id="epg_format" type="select" label="30300" lvalues="30301|30302|30303|30304|30305" default="0" subsetting="true" enable="eq(-1,true)" />
+  </category>
+
+</settings>

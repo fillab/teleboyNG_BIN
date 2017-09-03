@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30000">Teleboy Live-TV</string>
+
+    <!-- Category strings -->
+    <string id="30100">Main settings</string>
+        <string id="30110">Login</string>
+        <string id="30111">Password</string>
+        <string id="30200">EPG</string>
+        <string id="30300">EPG format</string>
+        <string id="30301">Program title</string>
+        <string id="30302">Program title (remaining time)</string>
+        <string id="30303">Program title (begin - end)</string>
+        <string id="30304">Program title (genre)</string>
+        <string id="30305">Program title (subtitle)</string>
+</strings>
