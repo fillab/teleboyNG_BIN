@@ -85,7 +85,8 @@ def ensure_login():
     args = { "login": settings.getSetting( id="login"),
              "password": settings.getSetting( id="password"),
              "keep_login": "1" }
-    reply = fetchHttp( url, args, post=True)
+    hdrs = { "Referer": 'https://www.teleboy.ch/login' }
+    reply = fetchHttp( url, args, hdrs, post=True)
 
     if updateSessionCookie( cookies) and updateUserID( reply):
         cookies.save( ignore_discard=True)
