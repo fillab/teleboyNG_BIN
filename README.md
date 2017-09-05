@@ -6,6 +6,10 @@ Before installing this addon make sure you already have the [mindmade XBMC Addon
 
 ## Changelog
 
+### 1.0.1
+Bugfix release:
+* Referer in request header during login
+
 ### 1.0.0
 New features and cosmetics:
 * settings - enable/disable EPG (thanks primaeval!)
