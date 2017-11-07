@@ -6,6 +6,10 @@ Before installing this addon make sure you already have the [mindmade XBMC Addon
 
 ## Changelog
 
+### 1.0.2
+Bugfix release:
+* New request after login to extract user_id (thanks benbois!)
+
 ### 1.0.1
 Bugfix release:
 * Referer in request header during login
