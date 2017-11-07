@@ -87,6 +87,7 @@ def ensure_login():
              "keep_login": "1" }
     hdrs = { "Referer": 'https://www.teleboy.ch/login' }
     reply = fetchHttp( url, args, hdrs, post=True)
+    reply = fetchHttp( TB_URL + "/live")
 
     if updateSessionCookie( cookies) and updateUserID( reply):
         cookies.save( ignore_discard=True)
