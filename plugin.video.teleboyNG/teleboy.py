@@ -29,7 +29,7 @@ PARAMETER_KEY_ASSETID = "assetid"
 TB_URL = "https://www.teleboy.ch"
 IMG_URL = "http://media.cinergy.ch"
 API_URL = "http://tv.api.teleboy.ch"
-API_KEY = base64.b64decode( "ZjBlN2JkZmI4MjJmYTg4YzBjN2ExM2Y3NTJhN2U4ZDVjMzc1N2ExM2Y3NTdhMTNmOWMwYzdhMTNmN2RmYjgyMg==")
+API_KEY = base64.b64decode( "NmNhOTlkZGIzZTY1OWU1N2JiYjliMTg3NDA1NWE3MTFiMjU0NDI1ODE1OTA1YWJhYWNmMjYyYjY0ZjAyZWIzZA==")
 COOKIE_FILE = xbmc.translatePath( "special://home/addons/" + PLUGINID + "/resources/cookie.dat")
 
 
