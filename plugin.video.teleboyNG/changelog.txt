@@ -1,3 +1,7 @@
+version 1.0.3
+
+  * bugfix (new API key)
+
 version 1.0.2
 
   * bugfix (login error)
